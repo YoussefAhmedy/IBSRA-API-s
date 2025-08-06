@@ -1,0 +1,7 @@
+<configuration>
+  <appSettings>
+    <add key="JWTSecretKey" value="your-super-secret-jwt-key-minimum-32-characters-long" />
+    <add key="JWTIssuer" value="YourAppName" />
+    <add key="JWTExpirationMinutes" value="60" />
+  </appSettings>
+</configuration>
